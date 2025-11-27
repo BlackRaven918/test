@@ -7,6 +7,6 @@ print("start")
 
 @app.route("/")
 def first_learning_tool_step():
-    return "<h1>stoomtrein</h1>"
+    return "<h1>EMU</h1>"
 
 
